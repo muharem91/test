@@ -1,0 +1,2 @@
+This is file3.txt
+It is used for git pull command
