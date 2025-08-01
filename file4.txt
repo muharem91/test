@@ -1,2 +1,4 @@
 This is file4.txt
 Created in the br3 branch
+
+File changed in br6 branch
